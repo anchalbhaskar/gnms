@@ -1,0 +1,12 @@
+{
+  "eta": -5.0,
+  "gamma": 0.0,
+  "subject_start": 0,
+  "subject_end": 50,
+  "batch_size": 50,
+  "num_connections_avg": 800,
+  "num_simulations": 2,
+  "connectivity_path": "./weighted_connectivity.npy",
+  "seed_path": "./seed.npy",
+  "device": "cpu"
+}
